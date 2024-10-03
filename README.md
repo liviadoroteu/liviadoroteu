@@ -1,4 +1,4 @@
-## Olá! Seja Bem-Vindo ao meu perfil 👋
+### Olá! Seja Bem-Vindo ao meu perfil 👋
 Sou a Lívia, aluna do Ensino Médio da Escola Isac Pereira Garcez de Dracena. 🤎
 
 - Estou estudando nas aulas de Tecnologia pelo [Alura](https://www.alura.com.br);
